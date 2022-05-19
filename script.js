@@ -1,9 +1,9 @@
 const config = {
-    title: "How to use your KIT:",
-    question: "1. Make it knowledgeable",
+    title: "Why is tone of voice important?",
+    question: "Having a clear tone of voice will help cement our personality in our culture and help us communicate better.",
     image_on: false,
     image: "https://a.storyblok.com/f/112136/373x445/175f800354/lucia-8.png",
-    selection_title: "Click on each bullet below to find out more about each one.",
+    selection_title: "Click on each bullet below to learn more about each point.",
     selection_options: [
         "It will help us be more consistent",
         "It will help us stand out from our competition",
