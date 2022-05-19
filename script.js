@@ -8,7 +8,6 @@ const config = {
         "It will help us be more consistent",
         "It will help us stand out from our competition",
         "It will help us be clearer",
-        ""
     ],
     answer_options: [
         "When our tone is consistent, partners trust us more since they know what to expect.",
